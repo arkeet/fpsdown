@@ -6,6 +6,7 @@ frames together. However, it does this in a smart way such that in case of
 duplicate frames, it will do the smart thing to remove unnecessary blurring in
 the output video.
 
+Source: https://github.com/arkeet/fpsdown
 Binary download: http://dl.dropbox.com/u/33903796/avs/fpsdown.zip
 
 Demonstration: http://www.youtube.com/watch?v=XULTJAWCDWk
