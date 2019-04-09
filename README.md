@@ -8,7 +8,7 @@ the output video.
 
 Source: https://github.com/arkeet/fpsdown
 
-Binary download: http://dl.dropbox.com/u/33903796/avs/fpsdown.zip
+Binary download: https://github.com/arkeet/fpsdown/releases
 
 Demonstration: http://www.youtube.com/watch?v=XULTJAWCDWk
 
